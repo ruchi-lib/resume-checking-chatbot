@@ -1,0 +1,18 @@
+python
+java
+c++
+sql
+javascript
+html
+css
+machine learning
+deep learning
+tensorflow
+pytorch
+data science
+flask
+fastapi
+react
+node.js
+nlp
+opencv
